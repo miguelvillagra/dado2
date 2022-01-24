@@ -1,2 +1,2 @@
-# dado2
-juedo dados
+# dados
+juedo dados al azar
